@@ -1,0 +1,9 @@
+-classpath '/home/pawel/IdeaProjects/Battleship/Battleship/task/build/classes/java/main:/home/pawel/IdeaProjects/Battleship/Battleship/task/build/resources/main'
+-d '/home/pawel/IdeaProjects/Battleship/Battleship/task/build/docs/javadoc'
+-doctitle 'Battleship-task API'
+-notimestamp 
+-quiet 
+-windowtitle 'Battleship-task API'
+'/home/pawel/IdeaProjects/Battleship/Battleship/task/src/battleship/Field.java'
+'/home/pawel/IdeaProjects/Battleship/Battleship/task/src/battleship/Player.java'
+'/home/pawel/IdeaProjects/Battleship/Battleship/task/src/battleship/Main.java'
